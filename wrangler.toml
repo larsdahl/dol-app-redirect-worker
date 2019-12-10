@@ -1,5 +1,5 @@
 name = "dol-app-redirect-worker"
 type = "javascript"
 account_id = ""
-route = "mkbl.dk/Apps"
+route = "dol-sensors.com/Apps"
 zone_id = ""
