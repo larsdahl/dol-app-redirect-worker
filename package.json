@@ -1,0 +1,9 @@
+{
+  "private": true,
+  "name": "dol-app-redirect-worker",
+  "version": "1.0.0",
+  "description": "A template for handling app redirection based on user agent",
+  "main": "index.js",
+  "author": "larsdahl",
+  "license": "MIT"
+}
